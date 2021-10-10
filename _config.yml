@@ -11,9 +11,9 @@ title                    : "Yang Yutong / Site Title"
 title_separator          : "-"
 name                     : &name "Yang Yutong"
 description              : &description "personal description"
-url                      : https://yutongyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brigittay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brigittay/yutongyang.github.io"
+repository               : "brigittay/brigittay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
